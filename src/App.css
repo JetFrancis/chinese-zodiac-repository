@@ -35,7 +35,7 @@ body {
   }
 }
 
-/* for responsiveness of cover picture */
+/* for responsiveness of cover picture in small screen */
 @media (max-width: 767px) {
   body {
     background-size: cover;
