@@ -1,0 +1,58 @@
+{
+  "chineseZodiac": [
+    "Rat",
+    "Ox",
+    "Tiger",
+    "Rabbit",
+    "Dragon",
+    "Snake",
+    "Horse",
+    "Goat",
+    "Monkey",
+    "Rooster",
+    "Dog",
+    "Pig"
+  ],
+  "horoscopeMessage": {
+    "Rat": "Clever and quick-witted, you succeed in business and life",
+    "Ox": "Honest and earnest, you are patient and inspire confidence",
+    "Tiger": "Brave and confident, you are a natural leader",
+    "Rabbit": "Gentle and elegant, you have good luck in relationships",
+    "Dragon": "Energetic and charismatic, you are born to be successful",
+    "Snake": "Wise and enigmatic, you excel in business and finance",
+    "Horse": "Energetic and independent, you pursue freedom and happiness",
+    "Goat": "Creative and elegant, you have artistic talents",
+    "Monkey": "Smart and clever, you are skilled at problem-solving",
+    "Rooster": "Independent and capable, you have an eye for detail",
+    "Dog": "Loyal and honest, you are a faithful friend",
+    "Pig": "Kind and gentle, you bring wealth and good fortune"
+  },
+  "luckyDetails": {
+    "Rat": { "color": "Blue", "number": 2 },
+    "Ox": { "color": "Yellow", "number": 8 },
+    "Tiger": { "color": "Green", "number": 1 },
+    "Rabbit": { "color": "Pink", "number": 3 },
+    "Dragon": { "color": "Gold", "number": 9 },
+    "Snake": { "color": "Black", "number": 7 },
+    "Horse": { "color": "Red", "number": 4 },
+    "Goat": { "color": "Purple", "number": 6 },
+    "Monkey": { "color": "White", "number": 5 },
+    "Rooster": { "color": "Silver", "number": 8 },
+    "Dog": { "color": "Brown", "number": 3 },
+    "Pig": { "color": "Gray", "number": 2 }
+  },
+  "compatibilityChart": {
+    "Rat": ["Dragon", "Monkey", "Ox"],
+    "Ox": ["Rat", "Snake", "Rooster"],
+    "Tiger": ["Horse", "Dog", "Pig"],
+    "Rabbit": ["Goat", "Dog", "Pig"],
+    "Dragon": ["Rat", "Monkey", "Rooster"],
+    "Snake": ["Ox", "Rooster", "Dragon"],
+    "Horse": ["Tiger", "Goat", "Dog"],
+    "Goat": ["Rabbit", "Horse", "Pig"],
+    "Monkey": ["Rat", "Dragon", "Dog"],
+    "Rooster": ["Ox", "Snake", "Dragon"],
+    "Dog": ["Tiger", "Rabbit", "Horse"],
+    "Pig": ["Tiger", "Rabbit", "Goat"]
+  }
+}
