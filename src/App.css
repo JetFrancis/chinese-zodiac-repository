@@ -34,3 +34,11 @@ body {
     transform: scale(1);
   }
 }
+
+/* for responsiveness of cover picture */
+@media (max-width: 767px) {
+  body {
+    background-size: cover;
+    background-position: 33% center;
+  }
+}
